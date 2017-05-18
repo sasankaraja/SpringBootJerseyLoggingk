@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootJerseyExample
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: satya
+Implementation-Vendor-Id: SpringBootJerseyExample
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: ESpark
+
